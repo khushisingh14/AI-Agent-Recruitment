@@ -1,0 +1,977 @@
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][OAUTH_CALLBACK_ERROR] 
+https://next-auth.js.org/errors#oauth_callback_error client_id is required {
+  error: TypeError: client_id is required
+      at new Y (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:30:55231)
+      at new <anonymous> (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:39:22269)
+      at o (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:6:128837)
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at async l (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:6:122752)
+      at async Object.c (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:30:774)
+      at async _ (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:6:105724)
+      at async a (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:30:20080)
+      at async e.length.t (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:30:21569)
+      at async C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\node_modules\next\dist\compiled\next-server\app-route.runtime.prod.js:6:36258 {
+    name: 'OAuthCallbackError',
+    code: undefined
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][OAUTH_CALLBACK_ERROR] 
+https://next-auth.js.org/errors#oauth_callback_error client_id is required {
+  error: TypeError: client_id is required
+      at new Y (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:30:55231)
+      at new <anonymous> (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:39:22269)
+      at o (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:6:128837)
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at async l (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:6:122752)
+      at async Object.c (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:30:774)
+      at async _ (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:6:105724)
+      at async a (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:30:20080)
+      at async e.length.t (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:30:21569)
+      at async C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\node_modules\next\dist\compiled\next-server\app-route.runtime.prod.js:6:36258 {
+    name: 'OAuthCallbackError',
+    code: undefined
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][OAUTH_CALLBACK_ERROR] 
+https://next-auth.js.org/errors#oauth_callback_error client_id is required {
+  error: TypeError: client_id is required
+      at new Y (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:30:55231)
+      at new <anonymous> (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:39:22269)
+      at o (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:6:128837)
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at async l (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:6:122752)
+      at async Object.c (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:30:774)
+      at async _ (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:6:105724)
+      at async a (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:30:20080)
+      at async e.length.t (C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\.next\server\app\api\auth\[...nextauth]\route.js:30:21569)
+      at async C:\Users\khxshx\Desktop\vscode\catalyst_ai_agent\talent-ai\node_modules\next\dist\compiled\next-server\app-route.runtime.prod.js:6:36258 {
+    name: 'OAuthCallbackError',
+    code: undefined
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
+[next-auth][error][SIGNIN_OAUTH_ERROR] 
+https://next-auth.js.org/errors#signin_oauth_error client_id is required {
+  error: {
+    message: 'client_id is required',
+    stack: 'TypeError: client_id is required\n' +
+      '    at new Y (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:55231)\n' +
+      '    at new <anonymous> (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:39:22269)\n' +
+      '    at o (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:128837)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+      '    at async s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:120891)\n' +
+      '    at async Object.s (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:8772)\n' +
+      '    at async _ (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:6:106467)\n' +
+      '    at async a (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:20080)\n' +
+      '    at async e.length.t (C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\.next\\server\\app\\api\\auth\\[...nextauth]\\route.js:30:21569)\n' +
+      '    at async C:\\Users\\khxshx\\Desktop\\vscode\\catalyst_ai_agent\\talent-ai\\node_modules\\next\\dist\\compiled\\next-server\\app-route.runtime.prod.js:6:36258',
+    name: 'TypeError'
+  },
+  providerId: 'google',
+  message: 'client_id is required'
+}
