@@ -72,6 +72,12 @@ Output Example
 
 ---
 
+Video : 
+
+https://github.com/user-attachments/assets/7c140c04-82d0-4cab-9f04-446cb1199631
+
+
+
 Author
 
 Khushi Singh
